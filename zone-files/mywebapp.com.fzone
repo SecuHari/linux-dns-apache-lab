@@ -1,0 +1,29 @@
+  GNU nano 8.1                                                                                          mywebapp.com.fzone                                                                                                     
+$TTL 2d    ; default TTL for zone
+
+$ORIGIN mywebapp.com. ; base domain-name
+
+; Start of Authority RR
+@         IN  SOA   ns1.mywebapp.com. hostmaster.mywebapp.com. (
+                                 2025082601 ; serial number (YYYYMMDDnn)
+                                 12h        ; refresh
+                                 15m        ; retry
+                                 3w         ; expire
+                                 2h         ; minimum
+                                )
+
+; Name server RR
+          IN  NS   ns1.mywebapp.com.
+
+; A records
+ns1	  IN  A    192.168.234.130
+@         IN  A    192.168.234.130
+www	  IN  A    192.168.234.130
+
+
+
+
+
+
+
+
