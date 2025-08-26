@@ -90,5 +90,5 @@ As part of my Linux Administration practice, I successfully configured a **DNS s
 
 ---
 
-📌 **Note:** This project’s detailed screenshots and configuration files are available on my GitHub repository.  
+
 👉 Connect with me on LinkedIn: [Hareesh Kumar](https://www.linkedin.com/in/hareesh-kumar-02045a339/)
